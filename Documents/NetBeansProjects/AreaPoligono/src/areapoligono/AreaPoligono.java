@@ -29,7 +29,7 @@ public class AreaPoligono {
         lc = 0; at = 0; A = 0; B = 0; D = 0; ats = 0; ar = 0; area = 0;
                    
       
-        System.out.println("***Programa que permite el cálculo de un poligono***");
+        System.out.println("***Programa que permite el cálculo de area un poligono***");
         System.out.println("");
         
         //Lectura de datos
